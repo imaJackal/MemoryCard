@@ -59,8 +59,6 @@ function App() {
     }
   }, [firstPick, secondPick]);
 
-  console.log(cards)
-
   // reset your pick & increase turn value
   const resetTurn = () => {
     setFirstPick(undefined);
