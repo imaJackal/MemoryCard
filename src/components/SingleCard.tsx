@@ -21,7 +21,7 @@ export default function SingleCard({ card, handlePick, flipped, disabled }: Prop
         <img className="front" src={card.src} alt="card front" />
         <img
           className="back"
-          src="/img/cover.png"
+          src="/img/fruitback.jpg"
           onClick={handleClick}
           alt="card back"
         />

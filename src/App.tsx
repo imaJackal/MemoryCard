@@ -11,6 +11,7 @@ const cardImages = [
   { src: "/img/grapefruit.jpg", matched: false },
   { src: "/img/grapes.jpg", matched: false },
   { src: "/img/orange.jpg", matched: false },
+  { src: "/img/strawberry.jpg", matched: false },
 ];
 
 function App() {
